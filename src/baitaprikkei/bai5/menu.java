@@ -34,6 +34,15 @@ public class menu {
                     }
                     break;
                 case 3:
+                    System.out.println("Mời chọn vị trí để sửa");
+                    int index = sc.nextInt();
+                    for (int i = 0; i <= index; i++){
+                        if (index == i){
+                            student s3 = new student();
+                            s3.inputData();
+                            listStudent.set(i, s3);
+                        }
+                    }
                     break;
                 case 4:
                     System.out.println("Nhập chỉ mục đã xóa: ");

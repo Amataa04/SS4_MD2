@@ -5,23 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67796a7c-8576-4506-8efb-ff0e74911438" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitaprikkei/bai1/circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitaprikkei/bai1/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitaprikkei/bai2/employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitaprikkei/bai2/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitaprikkei/bai3/QuadraticEquation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitaprikkei/bai3/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitaprikkei/bai4/fan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitaprikkei/bai4/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitaprikkei/bai5/menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitaprikkei/bai5/student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baitaprikkei/bai5/menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/baitaprikkei/bai5/menu.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +42,7 @@
     "Application.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -165,7 +149,7 @@
       <workItem from="1723740040672" duration="4433000" />
       <workItem from="1723744521432" duration="2633000" />
       <workItem from="1723787234621" duration="8691000" />
-      <workItem from="1723805375315" duration="2345000" />
+      <workItem from="1723805375315" duration="2773000" />
     </task>
     <servers />
   </component>
