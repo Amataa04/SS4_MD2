@@ -1,34 +1,151 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="67796a7c-8576-4506-8efb-ff0e74911438" name="Changes" comment="" />
+    <list default="true" id="67796a7c-8576-4506-8efb-ff0e74911438" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitaprikkei/bai1/circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitaprikkei/bai1/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitaprikkei/bai2/employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitaprikkei/bai2/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitaprikkei/bai3/QuadraticEquation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitaprikkei/bai3/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitaprikkei/bai4/fan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitaprikkei/bai4/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitaprikkei/bai5/menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitaprikkei/bai5/student.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2khe3oR968HsA7JE61agIK3Xfhx" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.baitaprikkei.bai2.test.executor": "Run",
+    "Application.baitaprikkei.bai3.test.executor": "Run",
+    "Application.baitaprikkei.bai4.test.executor": "Run",
+    "Application.menu.executor": "Run",
+    "Application.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "D:/HN-PTHB-JV240603/MD2/session4/session4/src/Main.java",
+    "settings.editor.selected.configurable": "project.propCompiler",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.menu">
+    <configuration name="baitaprikkei.bai2.test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baitaprikkei.bai2.test" />
+      <module name="session4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="baitaprikkei.bai2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="baitaprikkei.bai3.test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baitaprikkei.bai3.test" />
+      <module name="session4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="baitaprikkei.bai3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="baitaprikkei.bai4.test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baitaprikkei.bai4.test" />
+      <module name="session4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="baitaprikkei.bai4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="menu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baitaprikkei.bai5.menu" />
+      <module name="session4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="baitaprikkei.bai5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baitaprikkei.bai1.test" />
+      <module name="session4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="baitaprikkei.bai1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.menu" />
+        <item itemvalue="Application.baitaprikkei.bai4.test" />
+        <item itemvalue="Application.baitaprikkei.bai3.test" />
+        <item itemvalue="Application.baitaprikkei.bai2.test" />
+        <item itemvalue="Application.test" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -45,22 +162,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723740039684</updated>
-      <workItem from="1723740040672" duration="3000" />
+      <workItem from="1723740040672" duration="4433000" />
+      <workItem from="1723744521432" duration="2633000" />
+      <workItem from="1723787234621" duration="8691000" />
+      <workItem from="1723805375315" duration="2345000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
