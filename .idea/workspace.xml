@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67796a7c-8576-4506-8efb-ff0e74911438" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/baitaprikkei/bai6/circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitaprikkei/bai6/testcircle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/baitaprikkei/bai5/menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/baitaprikkei/bai5/menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baitaprikkei/bai5/student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/baitaprikkei/bai5/student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +44,7 @@
     "Application.baitaprikkei.bai4.test.executor": "Run",
     "Application.menu.executor": "Run",
     "Application.test.executor": "Run",
+    "Application.testcircle.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -54,7 +59,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.menu">
+  <component name="RunManager" selected="Application.testcircle">
     <configuration name="baitaprikkei.bai2.test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="baitaprikkei.bai2.test" />
       <module name="session4" />
@@ -107,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baitaprikkei.bai1.test" />
+    <configuration name="testcircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baitaprikkei.bai6.testcircle" />
       <module name="session4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="baitaprikkei.bai1.*" />
+          <option name="PATTERN" value="baitaprikkei.bai6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.testcircle" />
         <item itemvalue="Application.menu" />
         <item itemvalue="Application.baitaprikkei.bai4.test" />
         <item itemvalue="Application.baitaprikkei.bai3.test" />
         <item itemvalue="Application.baitaprikkei.bai2.test" />
-        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +154,8 @@
       <workItem from="1723740040672" duration="4433000" />
       <workItem from="1723744521432" duration="2633000" />
       <workItem from="1723787234621" duration="8691000" />
-      <workItem from="1723805375315" duration="2773000" />
+      <workItem from="1723805375315" duration="3042000" />
+      <workItem from="1723826053185" duration="2972000" />
     </task>
     <servers />
   </component>

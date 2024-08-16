@@ -36,21 +36,22 @@ public class menu {
                 case 3:
                     System.out.println("Mời chọn vị trí để sửa");
                     int index = sc.nextInt();
-                    for (int i = 0; i <= index; i++){
+                    for (int i = 1; i <= index; i++){
                         if (index == i){
                             student s3 = new student();
                             s3.inputData();
-                            listStudent.set(i, s3);
+                            listStudent.set(i - 1, s3);
                         }
+                        System.out.printf("Danh sách thứ %d đã được sửa\n", i);
                     }
                     break;
                 case 4:
                     System.out.println("Nhập chỉ mục đã xóa: ");
                     int indexRemove = sc.nextInt();
-                    for (int i = 0; i <= indexRemove; i++) {
-                        student s4 = new student();
+                    for (int i = 1; i <= indexRemove; i++) {
                         if (indexRemove == i) {
-                            listStudent.remove(i);
+                            listStudent.remove(i - 1);
+                            System.out.printf("Danh sách thứ %d đã được xóa\n", i);
                         }
                     }
                     break;

@@ -8,13 +8,13 @@ public class student {
     private int age;
     private String gender;
     private String address;
-    private int phoneNumber;
+    private String phoneNumber;
 
     public student() {
 
     }
 
-    public student(int id, String name, int age, String gender, String address, int phoneNumber) {
+    public student(int id, String name, int age, String gender, String address, String phoneNumber) {
         this.id = id;
         this.name = name;
         this.age = age;
@@ -63,11 +63,11 @@ public class student {
         this.address = address;
     }
 
-    public int getPhoneNumber() {
+    public String getPhoneNumber() {
         return phoneNumber;
     }
 
-    public void setPhoneNumber(int phoneNumber) {
+    public void setPhoneNumber(String phoneNumber) {
         this.phoneNumber = phoneNumber;
     }
 
@@ -85,7 +85,7 @@ public class student {
         System.out.println("Nhập địa chỉ: ");
         this.address = sc.nextLine();
         System.out.println("Nhập số điện thoại: ");
-        this.phoneNumber = Integer.parseInt(sc.nextLine());
+        this.phoneNumber = sc.nextLine();
     }
 
     // hien thi thong tin
@@ -96,5 +96,6 @@ public class student {
         System.out.println("Giới tính: " + this.gender);
         System.out.println("Địa chỉ: " + this.address);
         System.out.println("SĐT: " + this.phoneNumber);
+        System.out.println("--------------------------");
     }
 }
